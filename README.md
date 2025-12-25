@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm a Informatics Student at UPN Veteran Jawa Timur, Indonesia</h1>
 <p>Welcome to my GitHub! I'm passionate about software development, problem-solving, and exploring how technology, especially AI can reshape stories and systems.</p><br>
 
-![Image Alt](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Image Alt](https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2NzAzNzUsIm5iZiI6MTc2NjY3MDA3NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI1VDEzNDExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3MjI1Y2VjZmEyZjk0ODkzMGQwZDk5MDg1YzZhZGI4YjA2YmVmOGIzNDIzM2EyZTA5MzA1NmZmY2JjYWRhYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m5l1Q0UbPLw8GY0yI8IA-X5PDPDF5fC963vVUeLaUjQ)
 
 
 <h2>🧠 List of project<br></h2>
