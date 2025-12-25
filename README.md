@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![Image Alt](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 👋 Hi, I'm a Informatics Student at UPN Veteran Jawa Timur, Indonesia<br>Welcome to my GitHub! I'm passionate about software development, problem-solving, and exploring how technology, especially AI can reshape stories and systems.<br><br>🧠 What I'm Currently Working On<br>I'm currently building practical projects that combine my academic learning with real-world applications. My repositories reflect my interest in:<br>- Recommendation Systems (like my phone recommendation system using CBR) <br>- Task & Inventory Management Tools (student task managers, sales systems in C/C++) <br>- Machine Learning Implementations (Naive Bayes, KNN) <br>- Console & Web-Based Applications that solve everyday problems <br>I enjoy creating systems that are functional, clean, and user-friendly. <br><br>📚 Beyond Code: My Love for Fiction<br>- 📺 Anime, Cartoons, K-Dramas, Netflix Series <br>- 📖 Novels & Web Fiction <br>- 🎭 Favourite Genre: Netflix-style thrillers, dramas, and sci-fi <br><br><br>It's a fun way to blend creativity with technology! <br>I’m open to collaborations, project ideas, or just chatting about tech, fiction, or both! <br><br>🎭“Code tells a story. So does fiction. Why not mix them?” <br/><br><br><br>
 
 
